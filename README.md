@@ -10,7 +10,7 @@ An "example" function runs a sample scenario by moving the servo motors towards 
 
 <div style="color:red;">Servo.h library is required for this code</div>
 <font color="red">Servo.h library is required for this code</font>
-
+color.Cyan("Prints text in cyan.")
 
 [GitHub](https://github.com/MEkrembedir) 
 
