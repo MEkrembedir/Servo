@@ -8,9 +8,8 @@ A helper function called "decision" is used in the code to determine the directi
 An "example" function runs a sample scenario by moving the servo motors towards the specified target angles. The "setup" function in the code performs initial configurations such as assigning pin numbers for servo motors and setting the serial communication speed. Then, the "loop" function continuously calls the "example" function to make the servo motors move.
 
 
-<div style="color:red;">Servo.h library is required for this code</div>
-<font color="red">Servo.h library is required for this code</font>
-color.Cyan("Prints text in cyan.")
+Servo.h library is required for this code.
+
 
 [GitHub](https://github.com/MEkrembedir) 
 
